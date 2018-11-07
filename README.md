@@ -1,5 +1,5 @@
 # bitcoin-chartjs
 
-> A single-page app for viewing the historical price data for any cryptocurrency
+A single-page app for viewing the historical price data for any cryptocurrency
 
-Powered by Coinbase 
+> Powered by Coindesk 
